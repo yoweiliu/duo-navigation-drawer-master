@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">3/12</string>
+    <string name="_1">1</string>
+    <string name="singer">歌手</string>
+    <string name="songname">歌曲名</string>
+    <string name="songtime">時間</string>
+    <string name="play">play</string>
+    <string name="stop">stop</string>
+    <string name="scan">scan</string>
+    <string name="next">next</string>
+    <string name="playtime">播放進度</string>
+    <string name="mymusic">我的音樂</string>
+</resources>

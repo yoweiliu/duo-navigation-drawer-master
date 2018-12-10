@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:shape="rectangle" >
+
+    <!-- 漸變角度: 0° 為水平由左至右，90° 為垂直由下至上。-->
+    <!-- 起始顏色-->
+    <!--結束顏色-->
+    <gradient
+
+        android:angle="0"
+        android:startColor="#84e02c"
+        tools:endColor="#33ad60" />
+
+</shape>

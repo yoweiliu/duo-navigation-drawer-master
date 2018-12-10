@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Duo Example</string>
+
+    <string name="hello_blank_fragment">This is the main fragment</string>
+    <string name="music">Music</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+
+    <array name="menuOptions">
+        <item>Home</item>
+        <item>Multimedia</item>
+        <item>smarthome</item>
+        <item>Settings</item>
+        <item>others</item>
+    </array>
+</resources>
